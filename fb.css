@@ -1,0 +1,153 @@
+.header{
+background:#3b5998;
+width:100%;
+height:85px;
+}
+.logo{
+width:50%;
+padding-top:32px;
+float:left;
+}
+body{
+margin:0px;
+font-family:Helvetica Neue, Helvitica,Arial,sans-serif;
+}
+.login{
+width:50%;
+float:left;
+padding-top:10px;
+
+} 
+.logotext{
+color:#fff;
+font-size:35px;
+font-weight:bold;
+text-decoration:none;
+font-family:Helvetica Neue, Helvitica,Arial,sans-serif;
+margin-left:19.7%;  
+
+}
+.loginlabel{
+color:#fff;
+font-size:11px;
+}
+.logincontrols
+{
+margin-left:115px;
+}
+.forgot
+{
+font-size: 12px;
+text-decoration: none;
+color: #9cb4d8;
+
+}
+.loginbtn{
+background:#4267b2;
+color:#fff;
+height:20px;
+border-color:#29487d;
+cursor:pointer;
+
+}
+.loginbtn:hover{
+background:red;
+}
+.mainbody{
+background:linear-gradient(white,#d3d8e8);
+width:100%;
+height:500px;
+}
+.leftsection{
+width:50%;
+float:left;
+padding-left:134px;
+padding-top:52px;
+}
+.rightsection{
+width:41%;
+float:left;
+}
+.para{
+font-weight: bold;
+font-size:21px;
+color: #3b5998;
+margin-top: -16px;
+}
+.image{
+width:581px;
+}
+.name
+{
+height:30px;
+width:167.5px;
+border-radius:4px;
+font-size:15px;
+border-color:lightgrey;
+border-top:lightgrey;
+border-left:lightgrey;
+}
+.heading{
+display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: -0.33em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+.number{
+height:30px;
+width:340px;
+border-radius:4px;
+font-size:15px;
+border-color:lightgrey;
+border-top:lightgrey;
+border-left:lightgrey;
+margin-top:5px;
+}
+
+.birth{
+color:grey;
+font-weight:bold;
+}
+.date{
+border:1px;
+border-color:lightgrey;
+border-radius:4px;
+}
+.agrement
+{
+color: grey;
+font-size: 10.4px;
+}
+.signupbtn {
+   background: linear-gradient(to bottom, #339933 100%, #009933 100%);
+    height: 37px;
+    width: 176px;
+    border:solid 1px;
+    border-radius:5px;
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+    border-color: black;
+    cursor:pointer;
+}
+.brandpage{
+text-decoration:none;
+}
+#mm{
+font-weight:bold;
+font-size:14px;
+color:blue;
+}
+.brand{
+font-size:13px;
+}
+.copy{
+    margin-top: 2%;
+    margin-left: 41%;
+    font-size: 11px;
+    color: grey;
+}
+}
